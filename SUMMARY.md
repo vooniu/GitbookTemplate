@@ -48,5 +48,7 @@
   * [问答4](chapter000/QA04.md)
   * [问答5](chapter000/QA05.md)
   * [问答6](chapter000/QA06.md)
+  * [问答7](chapter000/QA07.md)
+  * [问答8](chapter000/QA08.md)
 
 
