@@ -1,6 +1,7 @@
 # 目录
 
 * [序言](chapter00/preface.md)
+* [第一部分：培养真正聪明的孩子]
 * [第一章](chapter01/README.md)
    * [魏坤琳：如何培养更聪明的孩子？](chapter01/note01.md)
    * [魏坤琳：我是家里最懂孩子的人](chapter01/note02.md)
@@ -21,6 +22,8 @@
 * [第六章](chapter06/README.md)
    * [洪一嘉：搞定「熊孩子」，先提高他们的自控力！](chapter06/note01.md)
 
+* [第二部分：做聪明的父母]
+
 * [第七章](chapter07/README.md)
    * [徐珺泽：看见成长的自己，看见成长的孩子](chapter07/note01.md)
 
@@ -37,18 +40,11 @@
 * [第十一章](chapter11/README.md)
    * [陈忻：做从容的父母 ](chapter11/note01.md)
  
-* [备注](ps/note01s.md)
-* [参考文献](ps/ref.md)
 * [致谢](ps/thanks.md)
 * [后记](end/postscript.md)
-* [别册](ps/note01s.md)
-  * [问答1](chapter000/QA01.md)
-  * [问答2](chapter000/QA02.md)
-  * [问答3](chapter000/QA03.md)
-  * [问答4](chapter000/QA04.md)
-  * [问答5](chapter000/QA05.md)
-  * [问答6](chapter000/QA06.md)
-  * [问答7](chapter000/QA07.md)
-  * [问答8](chapter000/QA08.md)
+* [问答别册](chapter000/readme.md)
+  * [情绪问答](chapter000/QA1e.md)
+  * [智力问答](chapter000/QA2i.md)
+
 
 
