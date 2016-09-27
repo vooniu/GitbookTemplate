@@ -26,8 +26,9 @@
    * [第十三章 赵昱鲲：做不焦虑的父母，培养自主的孩子](chapter05/note03.md)
 
  
-* 附录1：聪明养育书单  [谈儿童教育（3）：育儿心书 - 阳志平的网志](http://www.yangzhiping.com/psy/parenting3.html)  
+* 附录1：[读透这8种书，你就读懂了孩子](appendix/appendix01.md) 
 * 附录2：聪明养育资源推荐   [谈儿童教育（3）：育儿心书 - 阳志平的网志](http://www.yangzhiping.com/psy/parenting3.html)
+* 后记：[做聪明的父母](appendix/postscript.md)
 
 
 
